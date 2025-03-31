@@ -1,0 +1,18 @@
+
+.o_notebook .o_list_table th span {
+    white-space: normal !important;
+    text-align: center !important;
+}
+
+.o_notebook .o_list_table {
+    table-layout: auto;
+}
+
+.o_notebook .o_list_table th[style*="%"]:not(.o_list_controller):not(.o_handle_cell):not(.o_list_button) {
+    width: 125px !important;
+    max-width: none !important;
+}
+
+.o_notebook .o_list_table th div {
+    width: fit-content !important;
+}
