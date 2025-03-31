@@ -9,7 +9,7 @@
     """,
     'author': "Visnu",
     'category': 'category',
-    'version': '17.0.1.0.0',
+    'version': '16.0.1.0.0',
     'images': ['static/description/icon.png'],
     'depends': ['web'],
     'assets': {
